@@ -2,7 +2,7 @@
 
 
 
-![그림1](C:\Users\UUJIN\Desktop\그림1.jpg)			
+![유유진_증명사진](C:\Users\UUJIN\Desktop\그림1.jpg)			
 
 이름 : 유유진 ( 柳有進 )
 
