@@ -60,7 +60,7 @@
 
 클라우드 컴퓨팅 기술을 이용하여 클라우드 서비스를 제공하는 대표적인 회사로 아마존을 꼽을 수 있다.  
 
-![회사별 클라우드 시장 점유율 추이](C:\Users\UUJIN\Desktop\cloud computing_markdown\1.1-2.jpg)
+![회사별 클라우드 시장 점유율 추이](./img/cloud computing/1.1-2.jpg)
 
 
 
@@ -133,7 +133,7 @@ AWS의 주요 대상은 기업과 개발자이다.
 
 ##### 대표서비스
 
-![PaaS 대표서비스](C:\Users\UUJIN\Desktop\cloud computing_markdown\2.3.jpg)
+![PaaS 대표서비스](./img/cloud computing/2.3.jpg)
 
 
 
@@ -216,9 +216,9 @@ Ex) SOA, Open API
 
 
 
-![](C:\Users\UUJIN\Desktop\cloud computing_markdown\3.2-1.jpg)
+![](./img/cloud computing/3.2-1.jpg)
 
-![](C:\Users\UUJIN\Desktop\cloud computing_markdown\3.2-2.jpg)
+![](./img/cloud computing/3.2-2.jpg)
 
 가트너는 ‘17년부터 21년까지 전 세계 공용 클라우드 시장이 연평균 약 17.6%씩 성장할 것으로 예상
 
@@ -240,4 +240,4 @@ Ex) SOA, Open API
 
 #### 	4) 클라우드 컴퓨팅 트렌드
 
-![클라우드 컴퓨팅 트렌드](C:\Users\UUJIN\Desktop\cloud computing_markdown\3.4.jpg)
+![클라우드 컴퓨팅 트렌드](./img/cloud computing/3.4.jpg)
